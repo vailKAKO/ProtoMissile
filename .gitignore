@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+ProtoMissile/Library
+ProtoMissile/ProjectSettings
+ProtoMissile/Temp
+ProtoMissile/Logs
